@@ -40,8 +40,8 @@ src
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/AntonioSantos005/apiCredito-teste-automation.git
-cd apiCredito-teste-automation
+git clone https://github.com/AntonioSantos005/apicredito-teste-automation.git
+cd apicredito-teste-automation
 ```
 
 2. Execute os testes com Maven:
