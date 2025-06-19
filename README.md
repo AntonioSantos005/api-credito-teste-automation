@@ -1,7 +1,7 @@
 
-# API Sicredi - Testes Automatizados
+# API simulação de credito - Testes Automatizados
 
-Este projeto realiza a automação de testes de API simulando funcionalidades de uma API de crédito inspirada no Sicredi. Os testes foram implementados com Java, Cucumber, JUnit e Maven.
+Este projeto realiza a automação de testes de API simulando funcionalidades de uma API de crédito. Os testes foram implementados com Java, Cucumber, JUnit e Maven.
 
 ## 📌 Objetivo
 
@@ -16,6 +16,7 @@ Validar o comportamento de endpoints REST para:
 - Cucumber
 - JUnit
 - Maven
+- Rest Assured
 
 ## 📁 Estrutura do Projeto
 
@@ -39,8 +40,8 @@ src
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/ApiSicredi.git
-cd ApiSicredi
+git clone https://github.com/AntonioSantos005/apiCredito-teste-automation.git
+cd apiCredito-teste-automation
 ```
 
 2. Execute os testes com Maven:
@@ -62,4 +63,4 @@ mvn clean test
 
 ## 👤 Autor
 
-Antônio de Sousa – [LinkedIn](https://www.linkedin.com/in/seu-perfil)
+Antônio de Sousa – [LinkedIn](https://www.linkedin.com/in/antoniosousas/)
